@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.ibb.co/ZmGJ7g0/hugo-banner.png" width="700" alt="Hugo Melo — AI-augmented Solution Builder"/>
+  <img src="https://github.com/Hugomelo123/Hugomelo123/blob/main/assets/hugo_banner.png" width="700" alt="Hugo Melo Banner"/>
 </p>
 
-# 👋 Hi, I'm Hugo — AI-augmented Solution Builder
+# 👋 Hi, I'm Hugo — AI-augmented Solution Builder  
 
 ---
 
@@ -36,7 +36,7 @@ Open to opportunities in **Luxembourg or remote**.
 - Built with **NestJS, Prisma, PostgreSQL, Docker**  
 - Modules: patients, appointments, reschedules, intake, messaging  
 - **Impact**: ↓ rescheduling time ~40%, ↓ patient onboarding ~30%, fewer runtime errors with DTO validation  
-- 🎥 **Demo:** [Watch here](#) *(link depois)*  
+- 🎥 **Demo:** [Watch here](#) *(adicionar link depois)*  
 
 ---
 
