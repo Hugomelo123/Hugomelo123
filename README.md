@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Hugo — AI-augmented Solution Builder</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=00C9FF&center=true&vCenter=true&width=700&lines=SaaS+%7C+Automation+%7C+Cloud;AI+copilots+for+faster+delivery;End-to-end+solution+design" alt="typing intro"/>
+  <img src="https://i.imgur.com/Wv8r4rA.png" width="600" alt="Hugo Banner"/>
 </p>
 
 ---
@@ -15,26 +15,17 @@ Open to opportunities in **Luxembourg or remote**.
 ---
 
 ## 🧰 Tech Stack
-**Languages & Backend**  
-TypeScript · JavaScript · Node.js · NestJS · Express  
+**Core Skills**  
+NestJS · Next.js · Prisma · Supabase · PostgreSQL · Docker · TypeScript  
 
 **Frontend & UI**  
-React · Next.js · TailwindCSS · Zustand · shadcn/ui · Lucide · Recharts  
-
-**Database & ORM**  
-PostgreSQL · Prisma · Supabase  
+React · TailwindCSS · Zustand · shadcn/ui · Lucide · Recharts  
 
 **Auth & Security**  
 JWT · Passport.js · RBAC  
 
 **DevOps & Tools**  
-Docker · pnpm · GitHub Actions · Git  
-
-**Quality & Testing**  
-ESLint · Prettier · Husky · Jest  
-
-**Docs & Productivity**  
-Swagger · Notion · Figma · Loom · AI copilots  
+pnpm · GitHub Actions · Swagger · Jest · ESLint · Prettier  
 
 ---
 
@@ -44,16 +35,24 @@ Swagger · Notion · Figma · Loom · AI copilots
 - Built with **NestJS, Prisma, PostgreSQL, Docker**  
 - Modules: patients, appointments, reschedules, intake, messaging  
 - **Impact**: ↓ rescheduling time ~40%, ↓ patient onboarding ~30%, fewer runtime errors with DTO validation  
+- 🎥 **Demo:** [Watch here](#) *(link Loom/YouTube depois)*  
+
+---
 
 ### 🌍 IberiaHub (Collaboration Platform)  
 - Full-stack MVP with **Next.js, Supabase, TailwindCSS**  
 - Features: dashboards, tasks, events, role-based access  
 - **Impact**: saved teams ~4–6h/week, onboarding reduced to minutes, MVP delivered in <3 weeks  
+- 🎥 **Demo:** [Watch here](#)  
+
+---
 
 ### 📋 EXSAD (Audit & Fixes)  
 - Audited and fixed a task/subtask system  
 - Improved validation, permissions, audit logs  
 - **Impact**: restored 100% reliability, eliminated critical security gaps  
+
+---
 
 ### ⚡ Automation Minis  
 - Internal automations with AI copilots + APIs  
