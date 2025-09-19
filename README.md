@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm Hugo — AI-augmented Solution Builder</h1>
-
 <p align="center">
-  <img src="https://i.imgur.com/Wv8r4rA.png" width="600" alt="Hugo Banner"/>
+  <img src="https://i.ibb.co/ZmGJ7g0/hugo-banner.png" width="700" alt="Hugo Melo — AI-augmented Solution Builder"/>
 </p>
+
+# 👋 Hi, I'm Hugo — AI-augmented Solution Builder
 
 ---
 
@@ -15,17 +15,18 @@ Open to opportunities in **Luxembourg or remote**.
 ---
 
 ## 🧰 Tech Stack
-**Core Skills**  
-NestJS · Next.js · Prisma · Supabase · PostgreSQL · Docker · TypeScript  
 
-**Frontend & UI**  
-React · TailwindCSS · Zustand · shadcn/ui · Lucide · Recharts  
-
-**Auth & Security**  
-JWT · Passport.js · RBAC  
-
-**DevOps & Tools**  
-pnpm · GitHub Actions · Swagger · Jest · ESLint · Prettier  
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
 ---
 
@@ -35,7 +36,7 @@ pnpm · GitHub Actions · Swagger · Jest · ESLint · Prettier
 - Built with **NestJS, Prisma, PostgreSQL, Docker**  
 - Modules: patients, appointments, reschedules, intake, messaging  
 - **Impact**: ↓ rescheduling time ~40%, ↓ patient onboarding ~30%, fewer runtime errors with DTO validation  
-- 🎥 **Demo:** [Watch here](#) *(link Loom/YouTube depois)*  
+- 🎥 **Demo:** [Watch here](#) *(link depois)*  
 
 ---
 
