@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://github.com/Hugomelo123/Hugomelo123/blob/main/assets/hugo_banner.png" width="700" alt="Hugo Melo Banner"/>
-</p>
-
 # 👋 Hi, I'm Hugo — AI-augmented Solution Builder  
 
 ---
 
 ## 🚀 About
 Self-taught builder transitioning from construction into **technology**.  
-Creator and sole developer of **Santria** (Healthcare SaaS) and **IberiaHub** (Collaboration platform).  
+Creator and sole developer of **Santria** (Healthcare SaaS) and **IberiaHub** (Collaboration platform, live in production).  
 Focused on **SaaS, automation and AI copilots** to deliver solutions faster.  
 Open to opportunities in **Luxembourg or remote**.  
 
@@ -36,15 +32,14 @@ Open to opportunities in **Luxembourg or remote**.
 - Built with **NestJS, Prisma, PostgreSQL, Docker**  
 - Modules: patients, appointments, reschedules, intake, messaging  
 - **Impact**: ↓ rescheduling time ~40%, ↓ patient onboarding ~30%, fewer runtime errors with DTO validation  
-- 🎥 **Demo:** [Watch here](#) *(adicionar link depois)*  
 
 ---
 
-### 🌍 IberiaHub (Collaboration Platform)  
-- Full-stack MVP with **Next.js, Supabase, TailwindCSS**  
+### 🌍 IberiaHub (Collaboration Platform — Live)  
+- Full-stack platform with **Next.js, Supabase, TailwindCSS**  
 - Features: dashboards, tasks, events, role-based access  
 - **Impact**: saved teams ~4–6h/week, onboarding reduced to minutes, MVP delivered in <3 weeks  
-- 🎥 **Demo:** [Watch here](#)  
+- 🌐 **Live Production:** [iberiahub.com](https://iberiahub.com)  
 
 ---
 
