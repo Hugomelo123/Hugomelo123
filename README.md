@@ -3,10 +3,10 @@
 ---
 
 ## 🚀 About
-Self-taught builder transitioning from construction into **technology**.  
+Self-taught **SaaS and automation builder** with production launches in healthcare and collaboration platforms.  
 Creator and sole developer of **Santria** (Healthcare SaaS) and **IberiaHub** (Collaboration platform, live in production).  
-Focused on **SaaS, automation and AI copilots** to deliver solutions faster.  
-Open to opportunities in **Luxembourg or remote**.  
+Focused on **AI copilots, SaaS, and automation** to deliver solutions faster.  
+📍 Based in Luxembourg · Open to opportunities across Europe or remote.  
 
 ---
 
@@ -28,14 +28,15 @@ Open to opportunities in **Luxembourg or remote**.
 
 ## 📌 Selected Projects  
 
-### 🏥 Santria (Healthcare SaaS)  
+### 🏥 [Santria (Healthcare SaaS)](https://github.com/Hugomelo123/santria)  
 - Built with **NestJS, Prisma, PostgreSQL, Docker**  
 - Modules: patients, appointments, reschedules, intake, messaging  
 - **Impact**: ↓ rescheduling time ~40%, ↓ patient onboarding ~30%, fewer runtime errors with DTO validation  
+- 🌐 **Public Demo Repo**: [github.com/Hugomelo123/santria](https://github.com/Hugomelo123/santria)  
 
 ---
 
-### 🌍 IberiaHub (Collaboration Platform — Live)  
+### 🌍 [IberiaHub (Collaboration Platform — Live)](https://iberiahub.com)  
 - Full-stack platform with **Next.js, Supabase, TailwindCSS**  
 - Features: dashboards, tasks, events, role-based access  
 - **Impact**: saved teams ~4–6h/week, onboarding reduced to minutes, MVP delivered in <3 weeks  
@@ -62,6 +63,11 @@ Open to opportunities in **Luxembourg or remote**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugomelo123&layout=compact&theme=radical" height="180"/>
 </p>
 
+<p align="center">
+  ![Last commit](https://img.shields.io/github/last-commit/Hugomelo123/santria)
+  ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey)
+</p>
+
 ---
 
 ## 📫 Contact
@@ -73,7 +79,5 @@ Open to opportunities in **Luxembourg or remote**.
 ---
 
 <p align="center">
-  <b>“I don’t out-type people. I out-design systems and use AI to deliver faster.”</b>
+  <b>“I don’t out-type people. I out-design systems and leverage AI to deliver products faster.”</b>
 </p>
-
-
