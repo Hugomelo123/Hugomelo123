@@ -32,7 +32,7 @@ Focused on **AI copilots, SaaS, and automation** to deliver solutions faster.
 - Built with **NestJS, Prisma, PostgreSQL, Docker**  
 - Modules: patients, appointments, reschedules, intake, messaging  
 - **Impact**: ↓ rescheduling time ~40%, ↓ patient onboarding ~30%, fewer runtime errors with DTO validation  
-- 🌐 **Public Demo Repo**: [github.com/Hugomelo123/santria](https://github.com/Hugomelo123/santria)  
+- 🌐 **Public Demo Repo:** [github.com/Hugomelo123/santria](https://github.com/Hugomelo123/santria)  
 
 ---
 
@@ -63,10 +63,11 @@ Focused on **AI copilots, SaaS, and automation** to deliver solutions faster.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugomelo123&layout=compact&theme=radical" height="180"/>
 </p>
 
-<p align="center">
-  ![Last commit](https://img.shields.io/github/last-commit/Hugomelo123/santria)
-  ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey)
-</p>
+---
+
+## 📛 Repo Badges
+![Last commit](https://img.shields.io/github/last-commit/Hugomelo123/santria)
+![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey)
 
 ---
 
