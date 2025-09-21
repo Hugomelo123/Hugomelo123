@@ -75,3 +75,5 @@ Open to opportunities in **Luxembourg or remote**.
 <p align="center">
   <b>“I don’t out-type people. I out-design systems and use AI to deliver faster.”</b>
 </p>
+
+
