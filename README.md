@@ -4,7 +4,7 @@
 
 ---
 
-## Conclusion
+## The Problem
 Information is not missing.  
 It is misplaced.
 
@@ -182,7 +182,7 @@ The information exists.
 It is just in the wrong place at the wrong time.
 
 📧 hugo1297@gmail.com  
-🔗 linkedin.com/in/hugomelo1297  
+🔗 https://linkedin.com/in/hugomelo1297  
 
 </div>
 
