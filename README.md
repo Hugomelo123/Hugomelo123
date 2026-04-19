@@ -1,84 +1,59 @@
-# 👋 Hi, I'm Hugo — AI-augmented Solution Builder  
-
----
-
-## 🚀 About
-Self-taught **SaaS and automation builder** with production launches in healthcare and collaboration platforms.  
-Creator and sole developer of **Santria** (Healthcare SaaS) and **IberiaHub** (Collaboration platform, live in production).  
-Focused on **AI copilots, SaaS, and automation** to deliver solutions faster.  
-📍 Based in Luxembourg · Open to opportunities across Europe or remote.  
-
----
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
----
-
-## 📌 Selected Projects  
-
-### 🏥 [Santria (Healthcare SaaS)](https://github.com/Hugomelo123/santria)  
-- Built with **NestJS, Prisma, PostgreSQL, Docker**  
-- Modules: patients, appointments, reschedules, intake, messaging  
-- **Impact**: ↓ rescheduling time ~40%, ↓ patient onboarding ~30%, fewer runtime errors with DTO validation  
-- 🌐 **Public Demo Repo:** [github.com/Hugomelo123/santria](https://github.com/Hugomelo123/santria)  
-
----
-
-### 🌍 [IberiaHub (Collaboration Platform — Live)](https://iberiahub.com)  
-- Full-stack platform with **Next.js, Supabase, TailwindCSS**  
-- Features: dashboards, tasks, events, role-based access  
-- **Impact**: saved teams ~4–6h/week, onboarding reduced to minutes, MVP delivered in <3 weeks  
-- 🌐 **Live Production:** [iberiahub.com](https://iberiahub.com)  
-
----
-
-### 📋 EXSAD (Audit & Fixes)  
-- Audited and fixed a task/subtask system  
-- Improved validation, permissions, audit logs  
-- **Impact**: restored 100% reliability, eliminated critical security gaps  
-
----
-
-### ⚡ Automation Minis  
-- Internal automations with AI copilots + APIs  
-- **Impact**: cut manual work ~50%, prototypes delivered in hours instead of days  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hugomelo123&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugomelo123&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-## 📛 Repo Badges
-![Last commit](https://img.shields.io/github/last-commit/Hugomelo123/santria)
-![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey)
-
----
-
-## 📫 Contact
-📍 Luxembourg  
-🌍 Languages: PT · EN (written strong, async-first) · FR (basic)  
-✉️ Email: **hugo1297@gmail.com**  
-💼 LinkedIn: [linkedin.com/in/hugo-melo-a81a041b0](https://www.linkedin.com/in/hugo-melo-a81a041b0)  
-
----
-
-<p align="center">
-  <b>“I don’t out-type people. I out-design systems and leverage AI to deliver products faster.”</b>
-</p>
+<div align="center">
+Hugo Melo
+Construction Operations · Luxembourg
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+</div>
+<br>
+Who I Am
+I work on construction sites in Luxembourg as a tile layer.
+For years I watched the same operational problems repeat — not because people were incompetent, but because information was stuck in the wrong place at the wrong time. Phone calls that replaced written records. WhatsApp messages that never reached the office. Decisions made on incomplete data. Costs that were invisible until the project ended.
+I started mapping these problems. Then I started building demonstrations to show how they could be structured differently.
+I am looking for an operations coordination role where I can do this full time — between field and office, in construction or solar.
+<br>
+Operational Demos
+These are not products. They are structured demonstrations of operational thinking — built to show how I diagnose a problem, map the information flow, and propose a concrete structure before writing a single line of code.
+Each one was built around a real problem I observed directly.
+<br>
+ChantierOps
+Operational demo for construction site reporting.
+The problem: at the end of the day, the site manager calls each team leader. Gets a vague answer. Hangs up. Has a rough idea of progress across 8 sites. Nothing written, nothing precise. If something went wrong, he finds out the next morning.
+This demo shows one way to structure that flow — team leaders send a WhatsApp message as they already do, and the site manager gets a real-time dashboard instead of 8 phone calls.
+Built to be shown in a conversation, not deployed alone.
+React 19 · TypeScript · Node.js · Express · PostgreSQL · Tailwind · Twilio API
+Live demo: chantierops-production.up.railway.app
+<br>
+SolarOps
+Operational demo for solar installation companies in Luxembourg.
+The problem: leads managed in Excel, CREOS files forgotten for weeks, quotes sent and never followed up, technicians dispatched by phone every morning. Not a technology problem. A visibility and coordination problem.
+This demo maps the full pipeline from lead to installation and shows where the information breaks down — and what a structured flow could look like.
+Built to be shown during a conversation about how a real solar operation works.
+React 19 · TypeScript · Express · Tailwind · pdf-lib
+<br>
+LuxPayroll
+Payroll verification demo for Luxembourg's salary structure.
+Luxembourg payslips are complex. Most employees have no way to verify them independently. This demo was built to close that gap — and was used on a real payslip, where it identified confirmed discrepancies.
+The only demo with documented real-world use: problem observed, tool built, real error detected.
+NestJS · Next.js · PostgreSQL · TypeScript
+<br>
+OrçaPro
+Budget and estimation demo for construction projects.
+Built around the recurring problem of estimates that do not survive contact with field reality — because they were not built with field constraints in mind. Proof of concept, not tested in production.
+NestJS · Next.js · PostgreSQL · TypeScript
+<br>
+Stack
+Backend    →  NestJS · Node.js · Express · PostgreSQL · Docker
+Frontend   →  React · Next.js · TypeScript · Tailwind CSS
+Tooling    →  Cursor · Claude · Replit
+I direct architecture and validation. I use AI as an execution accelerator — not a replacement for understanding the problem.
+<br>
+Background
+4+ years on construction sites in Luxembourg.
+Before that, 4 to 5 years at Vodafone Açores: backoffice operations, technical client support, overnight server maintenance. That experience built a sensitivity to systems and processes that construction work confirmed from the other side.
+The combination is uncommon. Most people who understand field reality do not understand information systems. Most people who understand information systems have never worked on a site.
+<br>
+<div align="center">
+The information exists. It is just in the wrong place at the wrong time.
+hugo1297@gmail.com · linkedin.com/in/hugomelo1297
+</div>
